@@ -1,0 +1,1 @@
+const ARKA_AI='Intelligent Power Assistant';
